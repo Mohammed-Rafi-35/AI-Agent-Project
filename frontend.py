@@ -71,6 +71,7 @@ st.markdown("""
         border-radius: 5px;
         border-left: 4px solid #007bff;
         margin: 1rem 0;
+        color: #000000;
     }
     
     .question-box {
@@ -79,6 +80,7 @@ st.markdown("""
         border-radius: 10px;
         border: 1px solid #ffeaa7;
         margin: 1rem 0;
+        color: #000000;
     }
     
     .evaluation-box {
@@ -87,6 +89,7 @@ st.markdown("""
         border-radius: 10px;
         border: 1px solid #dee2e6;
         margin: 1rem 0;
+        color: #000000;
     }
     
     .sidebar .sidebar-content {
